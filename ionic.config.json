@@ -1,0 +1,7 @@
+{
+  "name": "Puppygram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
